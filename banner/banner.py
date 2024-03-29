@@ -5,7 +5,7 @@ import os
 import sys
 import time
 from subprocess import check_call
-from colorama import Fore, Style
+#from colorama import Fore, Style
 
 #Colores
 RED = '\033[1;31m'
